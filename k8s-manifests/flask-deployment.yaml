@@ -28,16 +28,16 @@ spec:
             - name: ENVIRONMENT
               value: remote
             - name: AKEYLESS_K8S_AUTH_ID
-              value: p-42hvjhn41dqwkm
+              value: p-hwj7m43hj53vkm
             - name: AKEYLESS_GATEWAY_URL
-              value: https://verbose-space-bassoon-q7qq69p6gpjwf4w97-8000.app.github.dev
+              value: https://psychic-spork-9jwj7wp9499hx9gq-8000.app.github.dev
             - name: AKEYLESS_GATEWAY_API_URL
-              value: https://verbose-space-bassoon-q7qq69p6gpjwf4w97-8081.app.github.dev
+              value: https://psychic-spork-9jwj7wp9499hx9gq-8081.app.github.dev
             - name: AKEYLESS_K8S_AUTH_CONFIG_NAME
-              value: /Workshops/Workshop2/tekanaidtest/k8s-auth-method
+              value: /Workshops/Workshop2/vamshigottam/k8s-auth-method
             - name: DATABASE_DYNAMIC_SECRET_NAME
-              value: /Workshops/Workshop2/tekanaidtest/mysql_password_dynamic
+              value: /Workshops/Workshop2/vamshigottam/mysql_password_dynamic
             - name: GITHUB_USERNAME
-              value: tekanaidtest
+              value: vamshigottam
           ports:
             - containerPort: 8080
